@@ -2,6 +2,7 @@
 This is an AI-powered product comparison tool built with Streamlit, which scrapes product details from e-commerce URLs (like Amazon, Flipkart, etc.) and lets users ask natural language questions like:
 
 "Which monitor has the best display quality?"
+
 🚀 Features
 
 📦 Accepts multiple product URLs (comma-separated)
